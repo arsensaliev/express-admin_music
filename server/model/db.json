@@ -1,0 +1,167 @@
+{
+  "skills": [
+    {
+      "number": "123",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    {
+      "number": 0,
+      "text": "Концертов отыграл"
+    },
+    {
+      "number": 0,
+      "text": "Максимальное число городов в туре"
+    },
+    {
+      "number ": 1,
+      "text": "Лет на сцене в качестве скрипача",
+      "number": "123"
+    }
+  ],
+  "products": [
+    {
+      "src": "./assets/img/products/Work1.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work2.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work3.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work4.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work5.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work6.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work7.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work8.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work9.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/5089001d38091526dc21271c14a4d86d.png",
+      "name": "react",
+      "price": "12312321"
+    },
+    {
+      "src": "./assets/img/products/5089001d38091526dc21271c14a4d86d.png",
+      "name": "react",
+      "price": "123123"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "Привет"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": []
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": []
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "fregreg"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "rgehreth"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "rgehreth"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "atwar"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "fewfew"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "fewf"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "fewfwe"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "fewfwe"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "greger"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "t54wgrehseya"
+    },
+    {
+      "name": "Арсен",
+      "email": "arsensaliev03@gmail.com",
+      "message": "geragaga"
+    },
+    {
+      "name": "gferfrw",
+      "email": "ariktaraz@gmail.com",
+      "message": "trhh"
+    },
+    {
+      "name": "fdaw",
+      "email": "as@mail.ru",
+      "message": "aef"
+    }
+  ],
+  "users": [
+    {
+      "email": "as@mail.ru",
+      "salt": "20819a5713442d6b984ef59d6b194cec",
+      "hash": "ed408545c456b295b38ce2bdb4bba88d3a2569e4de49a77a83870cba538950749d051ac36b5a1fa17616b43602875aba2f17195fe30c76a6b5af6774fba11c2e38214b7abbb153041e680e93a38ea0a147c01513b7aa7884475de18045e9a63503caf67a7a021089bad0d7634f393c3c7740d29ad36af42fc048ec47b634c25deb3347ad25bcb737a003d28c5a31a8d2077ef5fb41e79710ffb9fde597afb188503736ad23f96d7b4ce925cc6ca517925a98a1c60ca4a5df5f2fc1a222e0d884d7f6c0c4131c99ca58a35d1f6c685d260d3314dae0ccfda6ec5f80ac28a1a6ed3d5cdea4e5c5ccd81a49924c4b813a28adefbfadeeb017545522c4f0aeee78debf9ac6480e0bc4cd1bcc6dfd2af423e421f0ea8600f76c2ed4bde2186fdd22f7375eeeb9fed924573ac7c81e867f9b4ff7ec4b832071c9d5a014f5dffea671508a8497e7465a419861ccecc10d9c17c73e54673762c24c0bc8108c7c343a8d82f5d8072959c78805a7cd12b7b74d96faa80ded48a4c5c6d876bcf0a9f8879a7293e1cb25fa8374ed6936e74d12dc85be489b9766e6df7555e25ab867d7f93068a7a6377a70af2fa79c3aac6230db8fc98bad85fb6917c01842ddb26c766e7a1b1e7bb9cee17c6d89485f3a49b176046ab015b6f13c31067af924d21cecf609011bf02f91f5e651b87f160c7eabcaeae7269a6bc1a6a9c145081ffe07e1d8e774"
+    }
+  ]
+}
